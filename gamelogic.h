@@ -2,7 +2,7 @@
 #define GAME_LOGIC
 
 /************************************************************************************
-* @author Jacob McCloughan
+* @author Scoots
 * @version 3/03/2017
 *
 * Header file for the Connect Four game logic.

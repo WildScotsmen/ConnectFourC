@@ -3,7 +3,7 @@
 #include <argp.h>
 
 /************************************************************************************
-* @author Jacob McCloughan
+* @author Scoots
 * @version 3/03/2017
 * @see argp.h
 *

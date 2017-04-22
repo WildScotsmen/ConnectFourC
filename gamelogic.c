@@ -5,7 +5,7 @@
 #include <string.h>
 
 /************************************************************************************
-* @author Jacob McCloughan
+* @author Scoots
 * @version 3/03/2017
 * @see gamelogic.h
 *

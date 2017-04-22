@@ -2,7 +2,7 @@
 #define FILE_UTILS
 
 /************************************************************************************
-* @author Jacob McCloughan
+* @author Scoots
 * @version 3/03/2017
 *
 * Header file for file utilities for reading in a file to an array and then
